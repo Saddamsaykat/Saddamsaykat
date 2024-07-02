@@ -109,20 +109,77 @@ This project is licensed under the [Md. Saddam Hossain Saykat] - see the LICENSE
 
 Feel free to explore the projects and connect with me!
 
-<div style="display: flex; flex-wrap: wrap; gap: 20px;">
+# Technologies
+
+<div style="display: grid; grid-template-columns: repeat(4, 1fr); gap: 20px;">
+
     <div style="text-align: center;">
-        <img src="./Images/Dev/html.png" width="48" height="48" alt="React">
+        <img src="./Images/Dev/html.png" width="48" height="48" alt="HTML">
         <br>HTML
     </div>
+
     <div style="text-align: center;">
-        <img src="./Images/Dev/css3.jpeg" width="48" height="48" alt="NodeJs">
+        <img src="./Images/Dev/css3.jpeg" width="48" height="48" alt="CSS">
         <br>CSS
     </div>
+
     <div style="text-align: center;">
-        <img src="./Images/Dev/javaScript.png" width="48" height="48" alt="Express">
+        <img src="./Images/Dev/javaScript.png" width="48" height="48" alt="JavaScript">
         <br>JavaScript
     </div>
-    <!-- Add more similar divs for other technologies -->
+
+    <div style="text-align: center;">
+        <img src="./Images/Dev/tailwind.png" width="48" height="48" alt="TailWind">
+        <br>TailWind CSS
+    </div>
+
+    <div style="text-align: center;">
+        <img src="./Images/Dev/daisyUi.png" width="48" height="48" alt="DaisyUi">
+        <br>DaisyUi
+    </div>
+
+    <div style="text-align: center;">
+        <img src="./Images/Dev/mambaUi.jpg" width="48" height="48" alt="MambaUi">
+        <br>MambaUi
+    </div>
+
+    <div style="text-align: center;">
+        <img src="./Images/Dev/bootstrap.png" width="48" height="48" alt="BootStrap">
+        <br>BootStrap
+    </div>
+
+    <div style="text-align: center;">
+        <img src="./Images/Dev/firebase.png" width="48" height="48" alt="Firebase">
+        <br>Firebase
+    </div>
+
+    <div style="text-align: center;">
+        <img src="./Images/Dev/vercel.jpg" width="48" height="48" alt="Vercel">
+        <br>Vercel
+    </div>
+
+    <div style="text-align: center;">
+        <img src="./Images/Dev/react.png" width="48" height="48" alt="React">
+        <br>React Js
+    </div>
+
+    <div style="text-align: center;">
+        <img src="./Images/Dev/nodeJs.png" width="48" height="48" alt="NodeJs">
+        <br>Node Js
+    </div>
+
+    <div style="text-align: center;">
+        <img src="./Images/Dev/express.png" width="48" height="48" alt="Express">
+        <br>Express Js
+    </div>
+
+    <div style="text-align: center;">
+        <img src="./Images/Dev/mongo.png" width="48" height="48" alt="MongoDB">
+        <br>MongoDB
+    </div>
+
+    <div style="text-align: center;">
+        <img src="./Images/Dev/Python-logo-notext.svg.png" width="48" height="48" alt="Python">
+        <br>Python
+    </div
 </div>
-
-
