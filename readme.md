@@ -109,3 +109,20 @@ This project is licensed under the [Md. Saddam Hossain Saykat] - see the LICENSE
 
 Feel free to explore the projects and connect with me!
 
+<div style="display: flex; flex-wrap: wrap; gap: 20px;">
+    <div style="text-align: center;">
+        <img src="./Images/Dev/html.png" width="48" height="48" alt="React">
+        <br>HTML
+    </div>
+    <div style="text-align: center;">
+        <img src="./Images/Dev/css3.jpeg" width="48" height="48" alt="NodeJs">
+        <br>CSS
+    </div>
+    <div style="text-align: center;">
+        <img src="./Images/Dev/javaScript.png" width="48" height="48" alt="Express">
+        <br>JavaScript
+    </div>
+    <!-- Add more similar divs for other technologies -->
+</div>
+
+
