@@ -1,4 +1,4 @@
-<img src="./Images/Dev/1714764774209.jpeg" />
+<img src="./Images/Dev/myBanner.jpeg" />
 
 ##
 # Welcome to My GitHub Repository
