@@ -58,32 +58,32 @@ Hello! I am Md Saddam Hossain Saykat. This repository serves as a platform for m
       <br>DaisyUi
     </td>
     <td align="center" width="96">
-      <img src="./images/Dev/daisyUi.png" width="48" height="48" alt="Firebase Auth">
-      <br>DaisyUi
+      <img src="./images/Dev/react.png" width="48" height="48" alt="Firebase Auth">
+      <br>React Js
     </td>
     <td align="center" width="96">
-      <img src="./images/Dev/daisyUi.png" width="48" height="48" alt="Firebase Auth">
-      <br>DaisyUi
+      <img src="./images/Dev/nodeJs.png" width="48" height="48" alt="Firebase Auth">
+      <br>Node Js
     </td>
     <td align="center" width="96">
-      <img src="./images/Dev/daisyUi.png" width="48" height="48" alt="Firebase Auth">
-      <br>DaisyUi
+      <img src="./images/Dev/express.png" width="48" height="48" alt="Firebase Auth">
+      <br>Express Js
     </td>
     <td align="center" width="96">
-      <img src="./images/Dev/daisyUi.png" width="48" height="48" alt="Firebase Auth">
-      <br>DaisyUi
+      <img src="./images/Dev/mongo.png" width="48" height="48" alt="Firebase Auth">
+      <br>MongoDB
     </td>
     <td align="center" width="96">
-      <img src="./images/Dev/daisyUi.png" width="48" height="48" alt="Firebase Auth">
-      <br>DaisyUi
+      <img src="./images/Dev/Python-logo-notext.svg.png" width="48" height="48" alt="Firebase Auth">
+      <br>Python
     </td>
     <td align="center" width="96">
-      <img src="./images/Dev/daisyUi.png" width="48" height="48" alt="Firebase Auth">
-      <br>DaisyUi
+      <img src="./images/Dev/redux.png" width="48" height="48" alt="Firebase Auth">
+      <br>Redux
     </td>
     <td align="center" width="96">
-      <img src="./images/Dev/daisyUi.png" width="48" height="48" alt="Firebase Auth">
-      <br>DaisyUi
+      <img src="./images/Dev/typeScript.jpeg" width="48" height="48" alt="Firebase Auth">
+      <br>TypeScript
     </td>
   </tr>
 </table>
