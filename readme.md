@@ -18,71 +18,71 @@ Hello! I am Md Saddam Hossain Saykat. This repository serves as a platform for m
 <table align="center">
   <tr>
     <td align="center" width="96">
-      <img src="./images/Dev/html.png" width="48" height="48" alt="React">
+      <img src="./Images/Dev/html.png" width="48" height="48" alt="React">
       <br>HTML
     </td>
     <td align="center" width="96">
-      <img src="./images/Dev/css3.jpeg" width="48" height="48" alt="NodeJs">
+      <img src="./Images/Dev/css3.jpeg" width="48" height="48" alt="NodeJs">
       <br>CSS
     </td>
     <td align="center" width="96">
-      <img src="./images/Dev/javaScript.png" width="48" height="48" alt="Express">
+      <img src="./Images/Dev/javaScript.png" width="48" height="48" alt="Express">
       <br>Java Script
     </td>
     <td align="center" width="96">
-      <img src="./images/Dev/tailwind.png" width="48" height="48" alt="TailWind">
+      <img src="./Images/Dev/tailwind.png" width="48" height="48" alt="TailWind">
       <br>TailWind CSS
     </td>
     <td align="center" width="96">
-      <img src="./images/Dev/daisyUi.png" width="48" height="48" alt="Firebase Auth">
+      <img src="./Images/Dev/daisyUi.png" width="48" height="48" alt="Firebase Auth">
       <br>DaisyUi
     </td>
     <td align="center" width="96">
-      <img src="./images/Dev/mambaUi.jpg" width="48" height="48" alt="Firebase Auth">
+      <img src="./Images/Dev/mambaUi.jpg" width="48" height="48" alt="Firebase Auth">
       <br>MambaUi
     </td>
     <td align="center" width="96">
-      <img src="./images/Dev/bootstrap.png" width="48" height="48" alt="Firebase Auth">
+      <img src="./Images/Dev/bootstrap.png" width="48" height="48" alt="Firebase Auth">
       <br>BootStrap
     </td>
     <td align="center" width="96">
-      <img src="./images/Dev/firebase.png" width="48" height="48" alt="Firebase Auth">
+      <img src="./Images/Dev/firebase.png" width="48" height="48" alt="Firebase Auth">
       <br>Firebase
     </td>
     <td align="center" width="96">
-      <img src="./images/Dev/vercel.jpg" width="48" height="48" alt="Firebase Auth">
+      <img src="./Images/Dev/vercel.jpg" width="48" height="48" alt="Firebase Auth">
       <br>Vercel
     </td>
     <td align="center" width="96">
-      <img src="./images/Dev/daisyUi.png" width="48" height="48" alt="Firebase Auth">
+      <img src="./Images/Dev/daisyUi.png" width="48" height="48" alt="Firebase Auth">
       <br>DaisyUi
     </td>
     <td align="center" width="96">
-      <img src="./images/Dev/react.png" width="48" height="48" alt="Firebase Auth">
+      <img src="./Images/Dev/react.png" width="48" height="48" alt="Firebase Auth">
       <br>React Js
     </td>
     <td align="center" width="96">
-      <img src="./images/Dev/nodeJs.png" width="48" height="48" alt="Firebase Auth">
+      <img src="./Images/Dev/nodeJs.png" width="48" height="48" alt="Firebase Auth">
       <br>Node Js
     </td>
     <td align="center" width="96">
-      <img src="./images/Dev/express.png" width="48" height="48" alt="Firebase Auth">
+      <img src="./Images/Dev/express.png" width="48" height="48" alt="Firebase Auth">
       <br>Express Js
     </td>
     <td align="center" width="96">
-      <img src="./images/Dev/mongo.png" width="48" height="48" alt="Firebase Auth">
+      <img src="./Images/Dev/mongo.png" width="48" height="48" alt="Firebase Auth">
       <br>MongoDB
     </td>
     <td align="center" width="96">
-      <img src="./images/Dev/Python-logo-notext.svg.png" width="48" height="48" alt="Firebase Auth">
+      <img src="./Images/Dev/Python-logo-notext.svg.png" width="48" height="48" alt="Firebase Auth">
       <br>Python
     </td>
     <td align="center" width="96">
-      <img src="./images/Dev/redux.png" width="48" height="48" alt="Firebase Auth">
+      <img src="./Images/Dev/redux.png" width="48" height="48" alt="Firebase Auth">
       <br>Redux
     </td>
     <td align="center" width="96">
-      <img src="./images/Dev/typeScript.jpeg" width="48" height="48" alt="Firebase Auth">
+      <img src="./Images/Dev/typeScript.jpeg" width="48" height="48" alt="Firebase Auth">
       <br>TypeScript
     </td>
   </tr>
