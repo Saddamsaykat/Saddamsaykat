@@ -1,4 +1,5 @@
-Hello, I Am Md. Saddam Hossain Saykat A Front End Developer
+<img src="./Images/Dev/1714764774209.jpeg" />
+
 
 # Welcome to My GitHub Repository
 
@@ -14,7 +15,7 @@ Hello! I am Md Saddam Hossain Saykat. This repository serves as a platform for m
 - List your skills here, such as programming languages, tools, and technologies.
 
 ## Contact
-- **Email**: your-email@example.com
+- **Email**: mdsaddamhossainsaykat@gmail.com
 - **LinkedIn**: [LinkedIn Profile](https://www.linkedin.com/in/md-saddam-hossain-saykat-3a66a7211/)
 <!-- - **Website**: [Your Website](https://your-website.com) -->
 
