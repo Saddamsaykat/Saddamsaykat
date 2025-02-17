@@ -1,185 +1,57 @@
-<img src="./Images/Dev/myBanner.jpeg" />
+<img src="https://raw.githubusercontent.com/BEPb/BEPb/5c63fa170d1cbbb0b1974f05a3dbe6aca3f5b7f3/assets/Bottom_up.svg" width="100%" />
+<h1 align="center">Hi 👋, I'm Md Saddam Hossain Saykat</h1>
+<h3 align="center">Frontend Web Developer</h3>
 
-##
-# Welcome to My GitHub Repository
+- 🌱 I’m currently learning: **PostgreSQL, Prisma, Doccer, AWS**
 
-## Introduction
-Hello! I am Md Saddam Hossain Saykat. This repository serves as a platform for me to showcase my projects and contributions in various fields.
+- 💬 Ask me about: **JavaScript, NextJs, ReactJs, etc...**
 
+- 🔭 I’m recently working on: [Power Energy Consultant Management System](Navigator)
 
-## :chart_with_upwards_trend: Current Stats
+- 📫 How to reach me: **mdsaddamhossainsaykat@gmail.com**
 
-<p align="center">
-  <img width="60%" src="https://github-readme-streak-stats.herokuapp.com?user=Saddamsaykat&theme=midnight-purple&hide_border=true&background=0D1117&stroke=0D1117&fire=FF1CF7&sideLabels=00F0FF&currStreakNum=FF1CF7&ring=FF1CF7&currStreakLabel=FF1CF7&sideNums=00F0FF" />
+- 📄 Know about my experiences: [Click Now](https://saykat-portfolio.vercel.app/)
+  
+- ⚡ Fun fact **😊**
+
+<div> <a href="https://x.com/SaykatSaddam" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"></a>
+<a href="https://www.linkedin.com/in/md-saddam-hossain-saykat-3a66a7211/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+<a href="https://github.com/Saddamsaykat" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
+<a href="www.instagram.com/mdsaddamhossainsaykat/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+<a href = "mailto:mdsaddamhossainsaykat@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+</div><h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://x.com/SaykatSaddam" target="blank"><img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/twitter.svg" alt="dev_ataullah" height="30" width="40" /></a><a href="https://linkedin.com/in/md-ataullah" target="blank"><img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/linked-in-alt.svg" alt="md-ataullah" height="30" width="40" /></a><a href="https://www.facebook.com/md.saddamhossainsaykat" target="blank"><img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/facebook.svg" alt="ataullah0" height="30" width="40" /></a><a href="https://stackoverflow.com/users/29673702/md-saddam-hossain-saykat" target="blank"><img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/stack-overflow.svg" alt="20224966" height="30" width="40" /></a>
+
+<h3 align="left">Languages and Tools: </h3>
+<p align="left">
+<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Languages/javascript-original.svg" alt="Javascript" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Frontend/html5-original-wordmark.svg" alt="HTML" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Frontend/css3-original-wordmark.svg" alt="Css" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Frontend/bootstrap-plain-wordmark.svg" alt="Bootstrap" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Frontend/tailwindcss-icon.svg" alt="Tailwindcss" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Frontend/react-original-wordmark.svg" alt="React" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Backend/nodejs-original-wordmark.svg" alt="NodeJs" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Database/mongodb-original-wordmark.svg" alt="Mongodb" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/BackendService/firebase-icon.svg" alt="Firebase" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Software/figma-icon.svg" alt="Figma" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Software/getpostman-icon.svg" alt="Postman" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Other/git-scm-icon.svg" alt="Git" width="40" height="40"/>
 </p>
 
-<br>
-<h2 align="left"> ⚙ Technologies</h2>
-<table align="center">
-  <tr>
-    <td align="center" width="96">
-      <img src="./Images/Dev/html.png" width="48" height="48" alt="React">
-      <br>HTML
-    </td>
-    <td align="center" width="96">
-      <img src="./Images/Dev/css3.jpeg" width="48" height="48" alt="NodeJs">
-      <br>CSS
-    </td>
-    <td align="center" width="96">
-      <img src="./Images/Dev/javaScript.png" width="48" height="48" alt="Express">
-      <br>Java Script
-    </td>
-    <td align="center" width="96">
-      <img src="./Images/Dev/tailwind.png" width="48" height="48" alt="TailWind">
-      <br>TailWind CSS
-    </td>
-    <td align="center" width="96">
-      <img src="./Images/Dev/daisyUi.png" width="48" height="48" alt="Firebase Auth">
-      <br>DaisyUi
-    </td>
-    <td align="center" width="96">
-      <img src="./Images/Dev/mambaUi.jpg" width="48" height="48" alt="Firebase Auth">
-      <br>MambaUi
-    </td>
-    <td align="center" width="96">
-      <img src="./Images/Dev/bootstrap.png" width="48" height="48" alt="Firebase Auth">
-      <br>BootStrap
-    </td>
-    <td align="center" width="96">
-      <img src="./Images/Dev/firebase.png" width="48" height="48" alt="Firebase Auth">
-      <br>Firebase
-    </td>
-    <td align="center" width="96">
-      <img src="./Images/Dev/vercel.jpg" width="48" height="48" alt="Firebase Auth">
-      <br>Vercel
-    </td>
-    <td align="center" width="96">
-      <img src="./Images/Dev/daisyUi.png" width="48" height="48" alt="Firebase Auth">
-      <br>DaisyUi
-    </td>
-    <td align="center" width="96">
-      <img src="./Images/Dev/react.png" width="48" height="48" alt="Firebase Auth">
-      <br>React Js
-    </td>
-    <td align="center" width="96">
-      <img src="./Images/Dev/nodeJs.png" width="48" height="48" alt="Firebase Auth">
-      <br>Node Js
-    </td>
-    <td align="center" width="96">
-      <img src="./Images/Dev/express.png" width="48" height="48" alt="Firebase Auth">
-      <br>Express Js
-    </td>
-    <td align="center" width="96">
-      <img src="./Images/Dev/mongo.png" width="48" height="48" alt="Firebase Auth">
-      <br>MongoDB
-    </td>
-    <td align="center" width="96">
-      <img src="./Images/Dev/Python-logo-notext.svg.png" width="48" height="48" alt="Firebase Auth">
-      <br>Python
-    </td>
-    <td align="center" width="96">
-      <img src="./Images/Dev/redux.png" width="48" height="48" alt="Firebase Auth">
-      <br>Redux
-    </td>
-    <td align="center" width="96">
-      <img src="./Images/Dev/typeScript.jpeg" width="48" height="48" alt="Firebase Auth">
-      <br>TypeScript
-    </td>
-  </tr>
-</table>
+<h3 align="left">Stars </h3>
+<img align="left" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Saddamsaykat&layout=compact&theme=" alt="saddamSaykat" />
 
-## Projects
-- **Project 1**: [Pet Traction](https://pet-traction.web.app/) - This Web For Adopt Pet.
-- **Project 2**: [Book World](https://jovial-banoffee-f958aa.netlify.app/) - This Web For All arount book.
-- **Project 3**: [Bus Ticket](https://saddamsaykat.github.io/smart-ticket/) - This Project for Bus Tickets.
+<p>&nbsp;<img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=Saddamsaykat&show_icons=true&locale=en&theme=dark" alt="saddamSaykat" /></p>
 
-## Skills
-- List your skills here, such as programming languages, tools, and technologies.
+<p><img align="center" height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Saddamsaykat&theme=dark" alt="saddamSaykat" /></p>
 
-## Contact
-- **Email**: mdsaddamhossainsaykat@gmail.com
-- **LinkedIn**: [LinkedIn Profile](https://www.linkedin.com/in/md-saddam-hossain-saykat-3a66a7211/)
-<!-- - **Website**: [Your Website](https://your-website.com) -->
-
-## License
-This project is licensed under the [Md. Saddam Hossain Saykat] - see the LICENSE.md file for details.
-
-## Acknowledgments
-- Any acknowledgments or credits, if applicable.
-
-Feel free to explore the projects and connect with me!
-
-# Technologies
-
-<div style="display: grid; grid-template-columns: repeat(4, 1fr); gap: 20px;">
-
-    <div style="text-align: center;">
-        <img src="./Images/Dev/html.png" width="48" height="48" alt="HTML">
-        <br>HTML
-    </div>
-
-    <div style="text-align: center;">
-        <img src="./Images/Dev/css3.jpeg" width="48" height="48" alt="CSS">
-        <br>CSS
-    </div>
-
-    <div style="text-align: center;">
-        <img src="./Images/Dev/javaScript.png" width="48" height="48" alt="JavaScript">
-        <br>JavaScript
-    </div>
-
-    <div style="text-align: center;">
-        <img src="./Images/Dev/tailwind.png" width="48" height="48" alt="TailWind">
-        <br>TailWind CSS
-    </div>
-
-    <div style="text-align: center;">
-        <img src="./Images/Dev/daisyUi.png" width="48" height="48" alt="DaisyUi">
-        <br>DaisyUi
-    </div>
-
-    <div style="text-align: center;">
-        <img src="./Images/Dev/mambaUi.jpg" width="48" height="48" alt="MambaUi">
-        <br>MambaUi
-    </div>
-
-    <div style="text-align: center;">
-        <img src="./Images/Dev/bootstrap.png" width="48" height="48" alt="BootStrap">
-        <br>BootStrap
-    </div>
-
-    <div style="text-align: center;">
-        <img src="./Images/Dev/firebase.png" width="48" height="48" alt="Firebase">
-        <br>Firebase
-    </div>
-
-    <div style="text-align: center;">
-        <img src="./Images/Dev/vercel.jpg" width="48" height="48" alt="Vercel">
-        <br>Vercel
-    </div>
-
-    <div style="text-align: center;">
-        <img src="./Images/Dev/react.png" width="48" height="48" alt="React">
-        <br>React Js
-    </div>
-
-    <div style="text-align: center;">
-        <img src="./Images/Dev/nodeJs.png" width="48" height="48" alt="NodeJs">
-        <br>Node Js
-    </div>
-
-    <div style="text-align: center;">
-        <img src="./Images/Dev/express.png" width="48" height="48" alt="Express">
-        <br>Express Js
-    </div>
-
-    <div style="text-align: center;">
-        <img src="./Images/Dev/mongo.png" width="48" height="48" alt="MongoDB">
-        <br>MongoDB
-    </div>
-
-    <div style="text-align: center;">
-        <img src="./Images/Dev/Python-logo-notext.svg.png" width="48" height="48" alt="Python">
-        <br>Python
-    </div
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><h3 align="center">Statistics</h3>
+<div align="center">
+<a href="https://github.com/Saddamsaykat">
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Saddamsaykat&theme=dark" height="180em" />
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Saddamsaykat&theme=dark" height="180em" />
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Saddamsaykat&theme=dark" height="180em" />
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Saddamsaykat&theme=dark" height="180em" />
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Saddamsaykat&theme=dark" height="180em" />
 </div>
