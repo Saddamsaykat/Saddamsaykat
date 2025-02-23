@@ -17,7 +17,7 @@
 
 
 
-- 🌱 I’m currently learning: **PostgreSQL, Prisma, Doccer, AWS**
+- 🌱 I’m currently learning: **PostgreSQL, Prisma, Docker, AWS**
 
 - 💬 Ask me about: **JavaScript, NextJs, ReactJs, etc...**
 
