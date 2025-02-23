@@ -2,21 +2,20 @@
 <h1 align="center">Hi 👋, I'm Md Saddam Hossain Saykat</h1>
 <h3 align="center">Frontend Web Developer</h3>
 
-<div>
 👋 Hi, I'm Md Saddam Hossain Saykat—a passionate full-time web developer with expertise in React, JavaScript, and Tailwind CSS. I love building dynamic, user-friendly applications with clean and efficient code.
 
-🚀 Skills & Interests 
-🔹 React, JavaScript, TypeScript
-🔹 Tailwind CSS, Styled Components
-🔹 API Integration, MongoDB, Express
-🔹 UI/UX Design, Responsive Web Design
+- 🚀 Skills & Interests 
+- 🔹 React, JavaScript, TypeScript
+- 🔹 Tailwind CSS, Styled Components
+- 🔹 API Integration, MongoDB, Express
+- 🔹 UI/UX Design, Responsive Web Design
 
 <p>💡 Always exploring new technologies and optimizing web experiences!
 </p>
 
 <p>Let me know if you want any modifications! 🚀</p>
 
-</div>
+
 
 - 🌱 I’m currently learning: **PostgreSQL, Prisma, Doccer, AWS**
 
