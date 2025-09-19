@@ -74,4 +74,4 @@
 
 
 
-[![Star History](https://api.lucabubi.me/chart?username=mdn&repository=js-examples&color=blue)](https://github.com/lucabubi/star-history)
+[![Star History](https://api.lucabubi.me/chart?username=mdn&repository=js-examples&color=blue)](https://github.com/Saddamsaykat/star-history)
