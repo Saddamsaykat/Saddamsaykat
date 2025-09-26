@@ -83,19 +83,3 @@
 
 <img align="center" src="https://github-profile-trophy.vercel.app/?username=Saddamsaykat&theme=tokyonight" height="180em" />
 
-
-📈 Activity Graph
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=saddamSaykat&bg_color=1a1b27&color=be90f2&line=638fda&point=35aea1&area=true&hide_border=true" alt="Activity Graph" />
-</div>
-
-## Star History
-
-<div>
-  [![Star History](https://api.lucabubi.me/chart?username=mdn&repository=js-examples&color=blue)](https://github.com/lucabubi/star-history)
-
-</div>
-
-<div style="margin-top: 10px;">
-  <a href="https://profile-summary-for-github.com/user/saddamSaykat"><img src="https://i.ibb.co.com/ycNbj1N6/statspage.png" alt="statspage" width="100%" border="0"></a>
-</div>
